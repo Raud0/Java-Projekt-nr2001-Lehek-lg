@@ -1,13 +1,15 @@
 body, html {
     height: 100%;
-    width: 600px;
-    max-width: 100%;
-    margin: 0 auto;
-    margin-top: 22px;
+    width: 100%;  
     background-color: dodgerblue;
+    background-image: url("touch.gif");
+    background-size: 50%;
 }
 
 .wordly {
+    width: 600px;
+    margin: 0 auto; 
+    margin-top: 44px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 17px;
     background-color: lavenderblush;
@@ -22,10 +24,20 @@ body, html {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+#end {
+    color: darkorchid;
+}
+
 .images {
+    margin-top: 11px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.rohktekst {
+    color: magenta;
+    margin-left: 22px;
 }
 
 #introduction {
