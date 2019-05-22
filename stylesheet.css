@@ -1,0 +1,31 @@
+body, html {
+    height: 100%;
+    max-width: 600px;
+    margin: 11;
+}
+
+.wordly {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 11px;
+    background-color: lavenderblush;
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 11px;
+    color: lavenderblush;
+}
+
+#title {
+    color: black;
+}
+
+#introduction {
+    color: black;
+}
+
+#links {
+    color: black;
+}
+
+#linksImage{
+    width: 100%;
+}
